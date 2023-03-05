@@ -19,7 +19,7 @@ public class DemoApplication {
 	}
 	
 	@RequestMapping("/noom-na")
-	String sayHello() {
+	String sayHellozz() {
 		return "Hello World!ssss";
 	}
 }
